@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohit-YV
+- 👋 Hi, I’m @Ranjan-YadaV
 - 👀 I’m interested in Data Structures, Algorithms and Programming.
 - 🌱 I’m currently learning C and Algorithm.
 - 💞️ I’m looking to collaborate on Software Development Projects.
