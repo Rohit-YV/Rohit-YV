@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ranjan-YadaV
-- 👀 I’m interested in Data Structures, Algorithms and Programming.
-- 🌱 I’m currently learning C and Algorithm.
+- 👀 I’m interested in ETHICAL HACKING and Programming.
 - 💞️ I’m looking to collaborate on Software Development Projects.
 - 📫 How to reach me? You can reach me through LinkedIn(https://www.linkedin.com/in/ranjan-yadav-82b28b249/)
 
