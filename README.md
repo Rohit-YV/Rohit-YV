@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Participating in bug bounty programs.<br>👯 I’m looking to collaborate on: Ethical hacking projects and software development tasks.<br>🤝 I’m looking for help with: Improving my coding skills, especially in data structures and algorithms.<br>🌱 I’m currently learning: Advanced penetration testing techniques.<br>💬 Ask me about: Cybersecurity, ethical hacking, bug bounty hunting, or Python programming.<br>⚡ Fun fact: I was recognized in the NASA,Aon,Dreamscape Hall of Fame for reporting a vulnerability!
+🔭 I’m currently working on: Participating in bug bounty programs.<br>👯 I’m looking to collaborate on: Ethical hacking projects and software development tasks.<br>🤝 I’m looking for help with: Improving my coding skills.<br>🌱 I’m currently learning: Advanced penetration testing techniques.<br>💬 Ask me about: Cybersecurity, ethical hacking, bug bounty hunting, or Python programming.<br>⚡ Fun fact: I was recognized in the NASA,Aon,Dreamscape Hall of Fame for reporting a vulnerability!
 
 
 ## 🌐 Socials:
